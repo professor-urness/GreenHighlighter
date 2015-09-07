@@ -17,7 +17,10 @@ public class MainActivity extends AppCompatActivity {
         /*this might create a conflict!!!*/
 
         //conflict??
+
+        //more stuff that will conflict
     }
+
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
