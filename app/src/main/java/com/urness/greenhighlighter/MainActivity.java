@@ -16,12 +16,13 @@ public class MainActivity extends AppCompatActivity {
 
         /*this might create a conflict!!!*/
 
+        //and this??
+
         //conflict??
 
         //more stuff that will conflict
     }
-
-
+    
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
