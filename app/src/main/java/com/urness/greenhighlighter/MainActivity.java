@@ -12,15 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //test test
-        //How about this for a test!!!?
-
-        /*this might create a conflict!!!*/
-
-        //and this??
-
-        //conflict??
-
-        //more stuff that will conflict
     }
     
     @Override
