@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
 
         /*On the branch*/
         //blah blah blah
+
+        System.out.println("more testing");
     }
     
     @Override
